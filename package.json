@@ -1,0 +1,19 @@
+{
+  "name": "simple-compiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./app/main.js"
+  },
+  "keywords": [
+    "javascript",
+    "compiler"
+  ],
+  "author": "Mehdi Khoshnevis",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.21.0",
+    "prettier": "^3.5.3"
+  }
+}
